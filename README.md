@@ -10,7 +10,7 @@ Requirements Questions
 3. What trends can we see in the data?
    - Focus on average daily rate and guests to explore seasonality
   
-   Create a database ( SQL Server Management Studio)
+  I Create a database ( SQL Server Management Studio)
    Querying data
    Exploratory Data Analysis
    Create Data Visualizations using Power BI
@@ -29,8 +29,9 @@ union
 select * from dbo.['2019$']
 union
 select * from dbo.['2020$']
+
 III Exploratory Data Analysis (EDA)
-Now, we are going to apply EDA to the data and try answer the following questions.
+Now, we are going to apply EDA to the data and try to answer the following questions.
 
 Is our hotel revenue growing yearly?
 Should we increase our parking lot size?
